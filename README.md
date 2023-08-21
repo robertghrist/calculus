@@ -7,7 +7,7 @@ This folder consists of the following resources for teaching and learning calcul
 
 CALCBLUEBOT is a prompt template for generating a tutor, tuned to the Calculus BLUE Project materials for multivariable calculus.
 
-See the [YouTube Channel](https://www.youtube.com/c/ProfGhristMath) for full video lectures.
+See the [Calculus Blue Playlist](https://www.youtube.com/@prof-g/playlists?view=50&sort=dd&shelf_id=2) on the [YouTube Channel](https://www.youtube.com/c/ProfGhristMath) for full video lectures.
 
 ## Instructions:
    In the CALCBLUEBOT text file, select all.
