@@ -11,12 +11,12 @@ See the [Calculus Blue Playlist](https://www.youtube.com/@prof-g/playlists?view=
 
 ## Instructions:
    In the CALCBLUEBOT text file, select all.
-   Copy and paste into your favorite LLM (large language model).
-   Read the list of commands and start learning multivariable calculus, following the Calculus BLUE Project syllabus.
+   Copy and paste into your favorite LLM (large language model), preferably GPT-4 + Advanced Data Analysis.
+   Read the list of commands and engage with the tutor, following the Calculus BLUE Project syllabus.
 
 ## Notes:
-   This prompt template was tuned to OpenAI's GPT-4 with Code Interpreter enabled.
-   Using this prompt without Code Interpreter is likely to lead to unstable results.
+   This prompt template was tuned to OpenAI's GPT-4 with Advanced Data Analysis (formerly Code Interpreter) enabled.
+   Using this prompt without Advanced Data Analysis is likely to lead to unstable results (and currently exceeds input length).
    The prompt text file will be updated frequently as test results come in. Please check back and use the latest version.
 
 ## Legal:
